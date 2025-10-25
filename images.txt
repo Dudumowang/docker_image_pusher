@@ -1,1 +1,1 @@
-pgvector:v0.5.0
+ankane/pgvector:v0.5.0
